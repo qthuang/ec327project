@@ -25,5 +25,4 @@ Developed by:
 
 Zixuan Shu
 Qingtian Huang
-Zhengyi Yang
 Xiteng Yao
