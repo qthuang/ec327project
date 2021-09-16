@@ -8,7 +8,7 @@ How to run
 
 Import the folder into Android Studio and build the app on an Android Device.
 
-How to play
+How to Use
 -----------
 
 In the main menu there are a few buttons, and by clicking each button, needed information will be provided. By clicking the feed button, the user can input wanted calories for the pet and the process bar will appear on the main menu. Note that the image of the pet will also change according to the cumulative calories!
@@ -24,7 +24,6 @@ Developed by:
 --------------
 
 Zixuan Shu
-Ziyu Yang
 Qingtian Huang
 Zhengyi Yang
 Xiteng Yao
